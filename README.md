@@ -9,6 +9,11 @@ For the frontend, we have used EJS, CSS and JavaScript,Node.js, Express.js and M
 <img src="https://miro.medium.com/max/700/1*CRGyx1uOut4eiMI0wXub3A.png">
 <p>Subscription Page</p>
 <img src="https://miro.medium.com/max/700/1*OxcNZ_Hrtd2ZBNWj1idqKg.png">
+
+<p>Our Project can be viewed online:
+  <a href="https://vedix-clone-backend.herokuapp.com/">Deployed-link</a>
+</p>
+
 <p>Read the details of project in the blog:
   <a href="https://medium.com/@iwilldofine/enhancement-to-our-previous-project-1c0143a8f5c4">Blog-link</a>
 </p>
