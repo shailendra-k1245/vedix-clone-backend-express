@@ -1,4 +1,4 @@
-# vedix-clone-backend-express
+# Vedix-Clone
 This is a clone of VEDIX which is a customized skin and hair care regimen subscription box.
 
 # Tech Stacks
