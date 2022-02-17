@@ -14,6 +14,6 @@ For the frontend, we have used EJS, CSS and JavaScript,Node.js, Express.js and M
 <p>Subscription Page</p>
 <img src="https://miro.medium.com/max/700/1*OxcNZ_Hrtd2ZBNWj1idqKg.png">
 
-<p>Read the deatails of project in the blog : 
-  <br/> <a href="https://medium.com/@iwilldofine/enhancement-to-our-previous-project-1c0143a8f5c4"></a>
+<p>Read the details of project in the blog: 
+  <a href="https://medium.com/@iwilldofine/enhancement-to-our-previous-project-1c0143a8f5c4">Blog-link</a>
 </p>
