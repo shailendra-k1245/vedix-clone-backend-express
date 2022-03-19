@@ -24,9 +24,12 @@ Web app requires <a href="https://nodejs.org/en/">Node.js </a> v10+ to run.
 
 Follow these commands to install the project
 
-<p>git clone https://github.com/shailendra-k1245/vedix-clone-backend-express.git</p>
-<p>cd vedix-clone-backend-express</p>
-<p>npm i</p>
-<p>node server.js</p>
+````
+git clone https://github.com/shailendra-k1245/vedix-clone-backend-express.git
+cd vedix-clone-backend-express
+npm i
+node server.js
+
+````
 
 
