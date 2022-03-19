@@ -17,3 +17,8 @@ For the frontend, we have used EJS, CSS and JavaScript,Node.js, Express.js and M
 <p>Read the details of project in the blog:
   <a href="https://medium.com/@iwilldofine/enhancement-to-our-previous-project-1c0143a8f5c4">Blog-link</a>
 </p>
+
+# Installation
+
+Web app requires <a href="https://nodejs.org/en/">Node.js </a> v10+ to run.
+
