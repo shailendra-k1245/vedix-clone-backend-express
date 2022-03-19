@@ -22,3 +22,10 @@ For the frontend, we have used EJS, CSS and JavaScript,Node.js, Express.js and M
 
 Web app requires <a href="https://nodejs.org/en/">Node.js </a> v10+ to run.
 
+Follow these commands to install the project
+
+git clone https://github.com/shailendra-k1245/vedix-clone-backend-express.git
+cd vedix-clone-backend-express
+npm i
+node server.js
+
